@@ -1,0 +1,10 @@
+.navbar ul li:hover{
+    background: #ff523b;
+    border-radius: 30px;
+    color: #fff;
+    transform: translateY(-10px);
+    padding: 8px 30px;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.5s;
+}
